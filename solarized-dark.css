@@ -22,7 +22,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>solarized-css/solarized-dark.css at gh-pages · thomasf/solarized-css</title>
+    <title>solarized-css/solarized-dark.css at gh-pages Â· thomasf/solarized-css</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -147,7 +147,7 @@
 
   <li class="header-nav-item dropdown js-menu-container">
     <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
-       aria-label="Create new…"
+       aria-label="Create newâ€¦"
        data-ga-click="Header, create new, icon:add">
       <svg aria-hidden="true" class="octicon octicon-plus left" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"></path></svg>
       <span class="dropdown-caret"></span>
@@ -474,7 +474,7 @@
               <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
             </li>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tagâ€¦" class="js-select-menu-tab" role="tab">Tags</a>
             </li>
           </ul>
         </div>
