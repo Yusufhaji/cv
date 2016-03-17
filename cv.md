@@ -60,4 +60,8 @@ United Nations World Food Programme
 
 Nationality: Somali        Languages: Somali (Native), English (Fluent),Gender: Male
 
+#### Assignment 2 Link
+
+[http://yusufhaji.github.io/assignment2/](http://yusufhaji.github.io/assignment2/ "Assignment 2 link")
+
 
